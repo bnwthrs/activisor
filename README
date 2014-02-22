@@ -7,7 +7,13 @@ Aim: To replace the folding visors found in cars with an active system
 Project Components:
 
 1 - Field of View Analysis
+     
+      Identifying the windscreen area http://www.asl.ethz.ch/education/master/mobile_robotics/year2012/Exercise3.pdf
+
 2 - Map Brightness 
+
+      Filtery filter?
+    
 3 - Locate unacceptable values
 4 - Position Intervention Mechanism
 5 - Actuate Filter
